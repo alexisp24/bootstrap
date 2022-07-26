@@ -1,2 +1,2 @@
-#My Bootstrap assignment
+#my bootstrap assignment
 ##Alexis Pearson
